@@ -8,7 +8,7 @@ export default function TelaInicial({navigation}) {
       source={require('../../assets/HomePage.png')}
       style={styles.container}
     >
-      <Text style={styles.textoPrincipal}>Pequisar por...</Text>
+      <Text style={styles.textoPrincipal}>Pequisar por..</Text>
 
       <View style={{flexDirection:'row'}}>
           <TouchableOpacity style={styles.btn} 
